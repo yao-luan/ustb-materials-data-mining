@@ -71,26 +71,17 @@
 
 ```text
 .
-├─ lecture_materials/      # 理论课程资料
-│                          # 包含课堂 PPT、PDF 课件及相关学习材料
-│
-├─ lab_materials/          # 上机实验相关内容
-│                          # 包含实验说明、实验代码（Notebook）及实验结果
-│
-├─ assignments/            # 平时作业与阶段性练习
-│                          # 以 Notebook 和脚本形式记录课程作业与练习过程
-│
-├─ course_project/         # 课程大作业：材料腐蚀速率预测
-│  ├─ code/                # 大作业实验代码（数据处理、特征选择、建模与评估）
-│  ├─ report/              # 课程大作业正式报告（PDF）
-│  └─ slides/              # 前期汇报与结题展示 PPT
-│
-├─ datasets/               # 实验与课程大作业使用的数据集
-│                          # 包含数据文件及必要的数据说明文档
-│
-├─ requirements.txt        # Python 运行环境依赖列表
-├─ LICENSE                 # 项目开源许可证（MIT）
-└─ README.md               # 项目总体说明与使用文档
+├─ lecture_materials/
+├─ lab_materials/
+├─ assignments/
+├─ course_project/
+│  ├─ code/
+│  ├─ report/
+│  └─ slides/
+├─ datasets/
+├─ result/                 
+└─ README.md
+
 
 
 ```
