@@ -106,7 +106,7 @@
 ### 安装示例
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib seaborn shap
+pip install -r requirements.txt
 ```
 
 ### Notebook 运行说明
