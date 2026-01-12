@@ -144,10 +144,11 @@ pip install numpy pandas scikit-learn matplotlib seaborn shap
 - 本仓库主要用于**课程学习与学术交流**  
 - 不作为商业项目或成熟软件发布  
 - 若包含第三方课件、数据或文档，仅用于合理教学与学习目的  
+- 请不要直接照搬代码 
 
 ---
 
-## 🚀 后续计划（非课程要求）
+## 🚀 后续计划
 
 ### 代码与结构
 
@@ -171,7 +172,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn shap
 
 ## ✨ 致谢
 
-感谢北京科技大学  
+感谢北京科技大学  颜鲁宁教授
 **《材料数据挖掘利用方法》** 课程提供的系统理论讲解与实践指导。
 
 本项目的完成得益于课程内容的设计与教学安排，  
