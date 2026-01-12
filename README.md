@@ -177,3 +177,9 @@ pip install numpy pandas scikit-learn matplotlib seaborn shap
 
 本项目的完成得益于课程内容的设计与教学安排，  
 为材料数据分析与机器学习方法的学习提供了良好平台。
+
+---
+
+## 📜 许可证
+本项目基于 **MIT 许可证** 开源。
+详细条款请查阅根目录下的 `LICENSE` 文件。
